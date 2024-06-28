@@ -2,6 +2,8 @@
 
 A BMI Calculator Flutter project.
 
+![BMI Mockup](https://github.com/Sabbir-Abdullah/BMI-Checker/assets/105972343/cf773952-703b-4823-84a5-a8bbe4128aa8)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
